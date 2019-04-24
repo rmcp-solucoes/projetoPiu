@@ -1,0 +1,45 @@
+/* ----- NAV ----- */
+.bg-light > *{
+    color: rgb(241, 241, 241) !important;
+}
+.bg-light {
+    background-color: #110B11 !important;
+}
+
+/* ----- CORPO ----- */
+.paraEfeito{
+    background-image: url(../imagem/Seven-reasons-to-play-spades-online-1024x362.jpg);
+    width: 100%;
+    height: 25rem;
+
+/* paralax */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.paraEfeito2{
+    background-image: url(../imagem/banner-n.jpg);
+    width: 100%;
+    height: 25rem;
+
+/* paralax */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logomedia {
+    width: 128px;
+    height: 128px;
+    box-sizing: border-box;
+}
+.cartao{
+    width: 15rem;
+    height: auto;
+}
+.footer-copyright{
+    background-color: #110B11 !important;
+    color: rgb(241, 241, 241) !important;
+}
